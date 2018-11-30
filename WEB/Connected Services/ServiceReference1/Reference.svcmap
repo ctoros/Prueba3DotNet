@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="483ff71b-688e-4672-9aef-f1919a83f10a" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:51070/SRV_Login.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="SRV_Login.disco" MetadataType="Disco" ID="e51baed8-df2f-400c-9c50-239674525225" SourceId="1" SourceUrl="http://localhost:51070/SRV_Login.svc?disco" />
+    <MetadataFile FileName="SRV_Login.xsd" MetadataType="Schema" ID="110f9aba-6ff2-4f82-b804-d12f0a964616" SourceId="1" SourceUrl="http://localhost:51070/SRV_Login.svc?xsd=xsd1" />
+    <MetadataFile FileName="SRV_Login1.xsd" MetadataType="Schema" ID="8747bb17-7859-4860-8712-f419136bc5a6" SourceId="1" SourceUrl="http://localhost:51070/SRV_Login.svc?xsd=xsd0" />
+    <MetadataFile FileName="SRV_Login.wsdl" MetadataType="Wsdl" ID="8d68021c-06cb-4d35-997e-b972c70c396d" SourceId="1" SourceUrl="http://localhost:51070/SRV_Login.svc?wsdl" />
+    <MetadataFile FileName="SRV_Login2.xsd" MetadataType="Schema" ID="2c3e7a2f-51de-466f-8a97-031732682d49" SourceId="1" SourceUrl="http://localhost:51070/SRV_Login.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

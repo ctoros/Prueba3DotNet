@@ -1,0 +1,12 @@
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\Entidades.dll.config
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\EntityFramework.dll
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\EntityFramework.xml
+C:\Users\Claudio\source\repos\Prueba3\Entidades\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Claudio\source\repos\Prueba3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\Prueba3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\Prueba3\Entidades\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Claudio\source\repos\Prueba3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Claudio\source\repos\Prueba3\Entidades\obj\Debug\Entidades.pdb
